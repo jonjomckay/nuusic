@@ -1,0 +1,1 @@
+Nuusic::Application.config.lastfm_api_key = ''
